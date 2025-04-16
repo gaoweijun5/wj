@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of Software Engineering](https://www.sc.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/index.htm). My research interest includes Data mining, Time series forecast and Out-of-Distribution Detection.
+I'm a third year undergraduate student from [School of Software Engineering](https://www.sc.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/index.htm) in China,supervised by Prof. [Prof. Gong](https://faculty.sdu.edu.cn/gongyongshun/zh_CN/index.htm). My research interest includes Data mining, Time series forecast and Out-of-Distribution Detection.
 
 I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
