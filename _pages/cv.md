@@ -8,11 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-当然可以！  
-我把你提供的 LaTeX 内容完整转换为 **Markdown 格式**（适合放到 GitHub、个人主页或者 LinkedIn 的 profile），格式统一简洁。
-
----
-
 ## Education
 
 **Shandong University**  
@@ -85,8 +80,4 @@ _Submitted to NeurIPS 2025 (Under Review)_
 **Python Packages:** Pandas, Matplotlib, Scipy, Numpy, PyTorch, Torchvision  
 **Technologies:** PyCharm, Visual Studio Code, Xcode, IntelliJ IDEA
 
----
 
-✅ **注意**：如果你后续要把这个 Markdown 放到网页或者简历模板，可以进一步美化，例如添加超链接、粗体、项目符号优化。如果需要，我可以给你做一个 GitHub-friendly 或者现代简历网页（比如 Hugo Academic 或 React 的页面）版本。
-
-要继续帮你转成简历网页版或者进一步美化吗？
