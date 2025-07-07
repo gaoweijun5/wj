@@ -13,7 +13,7 @@ redirect_from:
 **Shandong University**  
 *B.Eng in Software Engineering*  
 *Sept 2022 – June 2026*  
-**GPA:** 86.22/100
+**GPA:** 86.52/100
 
 ---
 
@@ -28,12 +28,35 @@ Lehui Li†, Sunxiang Gao†, **_Weijun Gao_**, Yongshun Gong
 _Submitted to NeurIPS 2025 (Under Review)_  
 † Equal contribution
 
-**Semantic-Aware Graph Outlier Generation via Diffusion Models for Robust OOD Detection**  
+**Revisiting Irregular Multivariate Time Series Forecasting: A Tokenizer Perspective**  
 _Submitted to NeurIPS 2025 (Under Review)_
 
 ---
 
 ## Research Experience
+
+
+
+### Test-Time Out-of-Distribution Detection  
+**HK PolyU** | *Hong Kong*  
+*Jan 2025 – May 2025*
+
+- Introduced a discriminative score and importance-driven typical set rectification method. By estimating the discrimination score of each channel, we rectified the feature set to enhance OOD detection performance.
+- Proposed a skewness-based rectification approach to rectify the actual channel distribution, making it more Gaussian-like and improving detection robustness.
+- Conducted extensive experimental evaluations on the ImageNet-1K and CIFAR benchmarks, demonstrating that our method outperforms existing approaches and generalizes well across architectures and OOD scoring methods.
+---
+
+### Multimodal Time Series Forecasting  
+**Shandong University** | *Jinan, Shandong*  
+*Sep 2024 – May 2025*
+
+- Designed an LLM-driven News Disentangler to decompose news into meta-environmental factors and sudden events, modeling their distinct causal impacts on time series forecasting.
+- Developed a backdoor adjustment mechanism with learnable vector quantization to mitigate confounding bias from meta-environmental factors, enhancing model interpretability.
+- Introduced a novel Counterfactual Reflection Agent combining counterfactual reasoning and self-reflection to filter spurious correlations in sudden events, improving forecasting robustness.
+
+
+
+---
 
 ### OOD Learning on Graph  
 **Shandong University** | *Jinan, Shandong*  
@@ -45,25 +68,7 @@ _Submitted to NeurIPS 2025 (Under Review)_
 
 ---
 
-### Multimodal Time Series Forecasting  
-**Shandong University** | *Jinan, Shandong*  
-*Sep 2024 – May 2025*
 
-- Designed an LLM-driven News Disentangler to decompose news into meta-environmental factors and sudden events, modeling their distinct causal impacts on time series forecasting.
-- Developed a backdoor adjustment mechanism with learnable vector quantization to mitigate confounding bias from meta-environmental factors, enhancing model interpretability.
-- Introduced a novel Counterfactual Reflection Agent combining counterfactual reasoning and self-reflection to filter spurious correlations in sudden events, improving forecasting robustness.
-
----
-
-### Test-Time Out-of-Distribution Detection  
-**HK PolyU** | *Hong Kong*  
-*Jan 2025 – May 2025*
-
-- Introduced a discriminative score and importance-driven typical set rectification method. By estimating the discrimination score of each channel, we rectified the feature set to enhance OOD detection performance.
-- Proposed a skewness-based rectification approach to rectify the actual channel distribution, making it more Gaussian-like and improving detection robustness.
-- Conducted extensive experimental evaluations on the ImageNet-1K and CIFAR benchmarks, demonstrating that our method outperforms existing approaches and generalizes well across architectures and OOD scoring methods.
-
----
 
 ## Projects
 
