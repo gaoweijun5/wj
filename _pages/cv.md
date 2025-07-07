@@ -37,6 +37,21 @@ _Submitted to NeurIPS 2025 (Under Review)_
 
 
 
+### Security Analysis of Multimodal Semantic Alignment 
+**Tsinghua University** | *Peking*  
+*Jun 2025 – Now*
+
+- Leveraged interpretability methods to investigate the mechanisms of MLLMs, focusing on safety aspects identified in recent academic literature.
+- Investigated the transfer of existing LLM techniques to multimodal learning, focusing on reconciling the disparity between continuous image semantics and discrete text semantics.
+---
+
+### Multi-Image Multimodal Knowledge Editing
+**King Abdullah University of Science and Technology** 
+*May 2025 – Now*
+
+- Identified the limitations of existing single-view knowledge editing methods and was the first to formally define the novel research task of "Multi-View Knowledge Editing", focusing on the core challenge of ensuring knowledge invariance and consistency across different visual inputs.
+- Led the design and construction of the first benchmark dataset for this task. The dataset spans multiple domains including landmarks, products, and characters, with each entity featuring distinct views (e.g., aerial vs. interior) for editing and consistency testing.
+
 ### Test-Time Out-of-Distribution Detection  
 **HK PolyU** | *Hong Kong*  
 *Jan 2025 – May 2025*
