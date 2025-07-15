@@ -24,15 +24,15 @@ redirect_from:
 ## Publications
 
 *   **TriAlign: Leveraging Channel-Aware Rectification for Robust OOD Detection**
-  **Weijun Gao**, Rundong He, Bin Xu, Jieming Shi, Xiushan Nie, Yilong Yin, Yongshun Gong
-  *Submitted to NeurIPS 2025 (Under Review)*
+    **Weijun Gao**, Rundong He, Bin Xu, Jieming Shi, Xiushan Nie, Yilong Yin, Yongshun Gong
+    *Submitted to NeurIPS 2025 (Under Review)*
 
 *   **Deciphering Multimodal Time Series Forecasting: A Causal Lens on Meta-Environments and Sudden Events**
-  Lehui Li†, Sunxiang Gao†, **Weijun Gao**, Yongshun Gong
-  *Submitted to NeurIPS 2025 (Under Review)*
+    Lehui Li†, Sunxiang Gao†, **Weijun Gao**, Yongshun Gong
+    *Submitted to NeurIPS 2025 (Under Review)*
 
 *   **Revisiting Irregular Multivariate Time Series Forecasting: A Tokenizer Perspective**
-  *Submitted to NeurIPS 2025 (Under Review)*
+    *Submitted to NeurIPS 2025 (Under Review)*
 
 ---
 
