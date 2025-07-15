@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 # Weijun Gao
 
-[Your Email Address] | [Your Phone Number] | [Your LinkedIn Profile (Optional)] | [Your GitHub Profile (Optional)]
 
 ---
 
