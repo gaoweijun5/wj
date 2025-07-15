@@ -1,12 +1,3 @@
----
-permalink: /
-title: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 # Weijun Gao
 
 
@@ -71,15 +62,6 @@ Lehui Li†, Sunxiang Gao†, **Weijun Gao**, Yongshun Gong
 *   Introduced a lightweight module approach to the implementation of OOD generalization methods, achieving comparable performance while significantly reducing training time.
 *   Explored new OOD scenarios and datasets, expanding the application scope of existing methods and identifying areas for further improvement.
 
----
-
-## Projects
-
-### A Single-Agent Travel Recommendation System
-*Link: (placeholder)*
-*   Developed a single-agent travel recommendation system using an agent framework.
-*   Leveraged the DeepSeek R1 model to design an intelligent agent capable of generating personalized travel itineraries based on user preferences such as destinations, budgets, and interests.
-*   Processed natural language inputs, providing detailed suggestions for attractions, restaurants, and accommodations.
 
 ---
 
